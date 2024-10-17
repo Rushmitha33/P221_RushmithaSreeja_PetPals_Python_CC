@@ -1,0 +1,3 @@
+charlie, 6, Beagle
+candy, 3, Labrador
+lucky, 5, Golden Retriever
